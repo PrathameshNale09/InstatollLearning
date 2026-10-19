@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|c:\\users\\prathmeshnale\\onedrive - meshba solutions llp\\documents\\instatoll\\instatolllearningapp\\instatolllearningapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|c:\\users\\prathmeshnale\\onedrive - meshba solutions llp\\documents\\instatoll\\instatolllearningapp\\instatolllearningapp\\services\\activitysummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\services\\activitysummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|c:\\users\\prathmeshnale\\onedrive - meshba solutions llp\\documents\\instatoll\\instatolllearningapp\\instatolllearningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\services\\recordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\services\\recordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\recordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\recordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\recordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\recordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\instatolllearningapp\\loginforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BFB101-984E-439B-B769-FB771632B973}|InstaTollLearningApp\\InstaTollLearningApp.csproj|solutionrelative:instatolllearningapp\\loginforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\.gitignore",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\.gitignore",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\.gitignore",
+              "RelativeToolTip": "InstaTollLearningApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-19T10:32:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivitySummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\ActivitySummaryService.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Services\\ActivitySummaryService.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\ActivitySummaryService.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Services\\ActivitySummaryService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:01:24.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Program.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Program.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:44:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\App.config",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\App.config",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\App.config",
+              "RelativeToolTip": "InstaTollLearningApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-17T06:33:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\NLog.config",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\NLog.config",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\NLog.config",
+              "RelativeToolTip": "InstaTollLearningApp\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-17T06:35:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForms.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\LoginForms.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\LoginForms.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\LoginForms.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\LoginForms.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:08:05.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecordService.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\RecordService.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Services\\RecordService.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\RecordService.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Services\\RecordService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:07:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:05:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:30:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordsForm.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\RecordsForm.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\RecordsForm.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\RecordsForm.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\RecordsForm.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAYwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:38:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecordsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\RecordsForm.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\RecordsForm.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\RecordsForm.cs [Design]",
+              "RelativeToolTip": "InstaTollLearningApp\\RecordsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:32:05.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:25:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\Models\\Record.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\Models\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:06:13.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\LoginForms.Designer.cs",
+              "RelativeDocumentMoniker": "InstaTollLearningApp\\LoginForms.Designer.cs",
+              "ToolTip": "C:\\Users\\PrathmeshNale\\OneDrive - MeshBA solutions llp\\Documents\\InstaToll\\InstaTollLearningApp\\InstaTollLearningApp\\LoginForms.Designer.cs",
+              "RelativeToolTip": "InstaTollLearningApp\\LoginForms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:08:30.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
